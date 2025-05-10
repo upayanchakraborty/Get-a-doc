@@ -92,3 +92,6 @@ Update `application.properties` as needed:
 spring.datasource.url=jdbc:h2:mem:testdb
 spring.datasource.driverClassName=org.h2.Driver
 spring.jpa.hibernate.ddl-auto=update
+
+
+📄 Licensed under the [MIT License](./LICENSE)
