@@ -25,6 +25,18 @@ Welcome to **Get-a-Doc**, a full-stack application built with 💻 **Spring Boot
 
 ## 📁 Project Structure
 
+get-a-doc-main/
+├── backend/
+│ └── getadoc/
+│ ├── src/
+│ │ └── main/java/com/webapp/getadoc/
+│ │ ├── controller/ # API Controllers 🧩
+│ │ ├── model/ # Data Models 📦
+│ │ ├── repository/ # JPA Repositories 💾
+│ │ └── GetadocApplication.java
+│ └── resources/
+│ └── application.properties # Config ⚙️
+└── .vscode/ (IDE settings)
 
 ---
 
